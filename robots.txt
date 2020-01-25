@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://futeeghahy.virtual-office-budapest.com/sitemap.xml
